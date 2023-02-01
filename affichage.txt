@@ -1,0 +1,11 @@
+
+***** Tests TAD CasPossible
+test 1 passé
+test 2 passé
+test 3 passé
+test 4 passé
+test 5 passé
+test 6 passé
+test 7 passé
+test 8 passé
+Tous les tests OK
